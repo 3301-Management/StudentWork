@@ -54,7 +54,7 @@ string* filter(regex pattern, string in) {
 	for (sregex_token_iterator i(in.begin(), in.end(), pattern); i != end; ++i) {
 		count++;
 		out[count] = *i;
-		//test for comit
+		
 	}
 	return out;
 }
