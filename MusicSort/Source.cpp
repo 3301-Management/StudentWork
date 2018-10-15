@@ -35,30 +35,27 @@ int main() {
 	}
 
 
-
+	
 
 	string f2[11];
 
-
-	sregex_token_iterator end;
-	for (std::sregex_token_iterator i(in.begin(),
-		in.end(), pattern);
-		i != end;
-		++i)
-	{
-		cout << *i << std::endl;
-	}
-
-	
-
-
-
-
-
-
-
-
-
 	cout << "Hello World!\n";
+}
+
+
+string* filter(regex pattern, string in) {
+	int count = 0;
+	sregex_token_iterator end;
+	for (sregex_token_iterator i(in.begin(), in.end(), pattern); i != end; ++i){
+		count++;
+	}
+	string out[count];
+	count = 0;
+	for (sregex_token_iterator i(in.begin(), in.end(), pattern); i != end; ++i) {
+		count++;
+		out[count] = *i;
+		//test for comit
+	}
+	return out;
 }
 
