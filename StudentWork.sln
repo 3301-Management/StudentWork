@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MusicSort", "MusicSort\MusicSort.vcxproj", "{75B35095-432E-49A5-A10D-E9B987C7EE00}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MusicSort-v2", "MusicSort-v2\MusicSort-v2.vcxproj", "{587F70E0-D20D-456D-9530-A917C726186E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,22 @@ Global
 		{75B35095-432E-49A5-A10D-E9B987C7EE00}.Release|x64.Build.0 = Release|x64
 		{75B35095-432E-49A5-A10D-E9B987C7EE00}.Release|x86.ActiveCfg = Release|x86
 		{75B35095-432E-49A5-A10D-E9B987C7EE00}.Release|x86.Build.0 = Release|x86
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|ARM.Build.0 = Debug|ARM
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|x64.ActiveCfg = Debug|x64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|x64.Build.0 = Debug|x64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|x86.ActiveCfg = Debug|x86
+		{587F70E0-D20D-456D-9530-A917C726186E}.Debug|x86.Build.0 = Debug|x86
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|ARM.ActiveCfg = Release|ARM
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|ARM.Build.0 = Release|ARM
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|ARM64.Build.0 = Release|ARM64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|x64.ActiveCfg = Release|x64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|x64.Build.0 = Release|x64
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|x86.ActiveCfg = Release|x86
+		{587F70E0-D20D-456D-9530-A917C726186E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

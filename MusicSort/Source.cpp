@@ -4,6 +4,7 @@
 #include <bits/stdc++.h>
 #include <regex>
 using namespace std;
+string* add;
 
 string* filter(regex pattern, string in) {
 	int count = 0;
@@ -12,15 +13,15 @@ string* filter(regex pattern, string in) {
 		count++;
 	}
 	string* out = new string[count];
-	count = 0;
+	count = -1;
 	sregex_token_iterator i(in.begin(), in.end(), pattern);
 	do {
 		count++;
-		cout << *i << '\n';
+		//cout << *i << '\n';
 		out[count] = *i;
 		++i;
 	} while (i != end);
-
+	add = out;
 		
 	
 	return out;
@@ -35,8 +36,9 @@ int main() {
 	regex pattern1("[^\\t]+");
 
 	//seting up file input
-	cout << "Plese specifiy abosolute path to input file. \n >";
-	cin >> file;
+	//cout << "Plese specifiy abosolute path to input file. \n >";
+	//cin >> file;
+	file = "/music/dys.txt";
 	ifstream input(file.c_str());
 
 	//counting file length
@@ -55,12 +57,23 @@ int main() {
 
 	//filtering
 	for (int i = 0; i < (f1->length()); i++) {
-		for (int ii = 0; ii < (filter(pattern1, f1[i])->length()); ii++) {
+		//delete[] add;
+		int iim = (filter(pattern1, f1[i])->length());
+		delete[] add;
+		for (int ii = 0; ii < iim-1; ii++) {
+			
 			//string buff[(*(filter(pattern1, f1[i])))];
 			//buff = ;
 			f2[ii][i] = (filter(pattern1, f1[i]))[ii];
+			delete[] add;
+
+			cout << "test";
 		}
+		cout << "test";
+
 	}
+
+
 
 
 	cout << "!\n";

@@ -1,0 +1,340 @@
+REPORT	SALES	PARTNER	ARTIST	ALBUM	SONG	COVER	TYPE	QTY.	UNIT	PAYABLE
+Oct 01, 2018	Aug 2018	iTunes - Apple Music - Australia	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00897918	$0.01795836
+Oct 01, 2018	Aug 2018	iTunes - Apple Music - Australia	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00897918	$0.00897918
+Sep 25, 2018	Aug 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00050926	$0.00050926
+Sep 25, 2018	Aug 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	The Reaver	No	stream	2.0	$0.00050926	$0.00101851
+Sep 21, 2018	Feb 2018	Tidal	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.01727544	$0.01727544
+Sep 20, 2018	Aug 2018	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00374465	$0.00374465
+Sep 20, 2018	Aug 2018	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00136500	$0.00273000
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00192283	$0.00192283
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00381472	$0.00381472
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00555464	$0.00555464
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00522613	$0.01045226
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00522613	$0.00522613
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00349713	$0.00349713
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00522613	$0.00522613
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00522613	$0.01045226
+Sep 11, 2018	Jun 2018	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	4.0	$0.00522613	$0.02090452
+Aug 28, 2018	Jul 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00052703	$0.00052703
+Aug 28, 2018	Jul 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	3.0	$0.00052703	$0.00158109
+Aug 28, 2018	Jul 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00052703	$0.00052703
+Aug 28, 2018	Jul 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00052703	$0.00052703
+Aug 28, 2018	Jul 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00052703	$0.00052703
+Aug 28, 2018	Jul 2018	iTunes Match - Americas	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00052703	$0.00052703
+Aug 23, 2018	Jul 2018	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00238602	$0.00238602
+Aug 07, 2018	May 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00509782	$0.00509782
+Jul 31, 2018	Jun 2018	iTunes - Apple Music - Australia	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00947102	$0.00947102
+Jul 31, 2018	Jun 2018	iTunes - Apple Music - Australia	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00947102	$0.00947102
+Jul 30, 2018	Jun 2018	YouTube Music	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00898170	$0.00898170
+Jul 30, 2018	Jun 2018	YouTube Music	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.01057693	$0.02115386
+Jul 30, 2018	Jun 2018	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00291928	$0.00291928
+Jul 30, 2018	Jun 2018	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00632177	$0.01264354
+Jul 17, 2018	Apr 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00163072	$0.00326144
+Jul 17, 2018	Apr 2018	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00508326	$0.00508326
+Jul 10, 2018	May 2018	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00222404	$0.00444808
+Jul 10, 2018	May 2018	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00252161	$0.00252161
+Jun 13, 2018	Mar 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00524069	$0.00524069
+Jun 13, 2018	Mar 2018	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00524069	$0.00524069
+May 09, 2018	Feb 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00539084	$0.00539084
+May 09, 2018	Feb 2018	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00539084	$0.00539084
+May 07, 2018	Feb 2018	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00235053	$0.00235053
+May 07, 2018	Feb 2018	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00539084	$0.00539084
+May 04, 2018	Mar 2018	YouTube Music	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00728000	$0.00728000
+May 04, 2018	Mar 2018	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00640367	$0.01280734
+May 04, 2018	Mar 2018	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.01456000	$0.01456000
+May 04, 2018	Mar 2018	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.01456000	$0.01456000
+May 04, 2018	Mar 2018	YouTube Music	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.01456000	$0.01456000
+Apr 25, 2018	Mar 2018	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.01008644	$0.01008644
+Apr 25, 2018	Mar 2018	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.01008644	$0.01008644
+Apr 11, 2018	Jan 2018	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	4.0	$0.00536718	$0.02146872
+Apr 11, 2018	Jan 2018	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	4.0	$0.00536718	$0.02146872
+Apr 11, 2018	Jan 2018	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00536718	$0.01073436
+Apr 10, 2018	Jan 2018	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00536718	$0.01073436
+Apr 10, 2018	Jan 2018	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	4.0	$0.00536718	$0.02146872
+Apr 09, 2018	Jan 2018	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00536718	$0.01073436
+Mar 22, 2018	Feb 2018	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00301392	$0.00301392
+Mar 22, 2018	Feb 2018	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00927745	$0.00927745
+Feb 26, 2018	Sep 2016	Yandex	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00008207	$0.00008207
+Feb 23, 2018	Jun 2016	Yandex	Dysphotic	Chaos Terrain	All Consuming	No	stream	3.0	$0.00006463	$0.00019388
+Feb 21, 2018	Jan 2018	YouTube Music	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00108381	$0.00216762
+Feb 14, 2018	Nov 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00547092	$0.00547092
+Feb 14, 2018	Nov 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	3.0	$0.00547092	$0.01641276
+Feb 14, 2018	Nov 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	3.0	$0.00547092	$0.01641276
+Feb 13, 2018	Nov 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00547092	$0.00547092
+Feb 13, 2018	Nov 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	3.0	$0.00547092	$0.01641276
+Feb 12, 2018	Nov 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00547092	$0.00547092
+Feb 06, 2018	Dec 2017	Google Music Store	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00556101	$0.00556101
+Feb 06, 2018	Dec 2017	Google Music Store	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00556101	$0.00556101
+Feb 06, 2018	Dec 2017	Google Music Store	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00556101	$0.00556101
+Feb 06, 2018	Dec 2017	Google Music Store	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00556101	$0.00556101
+Feb 06, 2018	Dec 2017	Google Music Store	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00556101	$0.00556101
+Feb 06, 2018	Dec 2017	Google Music Store	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00556101	$0.00556101
+Feb 06, 2018	Nov 2017	Google Music Store	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00584220	$0.00584220
+Feb 06, 2018	Nov 2017	Google Music Store	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00584220	$0.00584220
+Feb 06, 2018	Nov 2017	Google Music Store	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00584220	$0.00584220
+Feb 05, 2018	Nov 2017	Google Music Store	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00584220	$0.00584220
+Feb 05, 2018	Nov 2017	Google Music Store	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00584220	$0.00584220
+Feb 05, 2018	Nov 2017	Google Music Store	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00584220	$0.00584220
+Feb 01, 2018	Dec 2017	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00099372	$0.00198744
+Feb 01, 2018	Dec 2017	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00303667	$0.00607334
+Feb 01, 2018	Dec 2017	YouTube Music	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00203567	$0.00203567
+Jan 23, 2018	Oct 2017	YouTube Music	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00501410	$0.00501410
+Jan 23, 2018	Oct 2017	YouTube Music	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00218036	$0.00218036
+Jan 17, 2018	Oct 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00532077	$0.01064154
+Jan 17, 2018	Oct 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00532077	$0.01064154
+Jan 17, 2018	Oct 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00532077	$0.01064154
+Jan 16, 2018	Oct 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	2.0	$0.00532077	$0.01064154
+Jan 15, 2018	Oct 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00532077	$0.01064154
+Dec 15, 2017	Sep 2017	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00898898	$0.00898898
+Dec 15, 2017	Sep 2017	YouTube Music	Dysphotic	Chaos Terrain	Persephone	No	stream	3.0	$0.01661023	$0.04983069
+Nov 11, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00202202	$0.00404404
+Nov 10, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00202202	$0.00202202
+Nov 10, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00244244	$0.00244244
+Nov 10, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00542360	$0.00542360
+Nov 10, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00202202	$0.00202202
+Nov 10, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00202202	$0.00202202
+Nov 10, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00202202	$0.00202202
+Nov 10, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00542360	$0.00542360
+Nov 09, 2017	Aug 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00202202	$0.00202202
+Oct 27, 2017	Sep 2017	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00882245	$0.00882245
+Oct 27, 2017	Sep 2017	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00882245	$0.00882245
+Oct 27, 2017	Sep 2017	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00882245	$0.00882245
+Oct 14, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00245973	$0.00245973
+Oct 14, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00310310	$0.00310310
+Oct 14, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00548093	$0.01096186
+Oct 14, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00245973	$0.00245973
+Oct 14, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00548093	$0.00548093
+Oct 13, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00245973	$0.00245973
+Oct 13, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00310310	$0.00620620
+Oct 13, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	4.0	$0.00548093	$0.02192372
+Oct 13, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00245973	$0.00245973
+Oct 13, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00245973	$0.00245973
+Oct 12, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00310310	$0.00310310
+Oct 12, 2017	Jul 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00245973	$0.00491946
+Sep 16, 2017	Jun 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00554827	$0.00554827
+Sep 16, 2017	Jun 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00554827	$0.00554827
+Sep 15, 2017	Jun 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00554827	$0.00554827
+Sep 14, 2017	Jun 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00554827	$0.01109654
+Sep 14, 2017	Jun 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00554827	$0.00554827
+Sep 13, 2017	Jun 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00554827	$0.00554827
+Aug 12, 2017	May 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00527254	$0.00527254
+Aug 12, 2017	May 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00253617	$0.00253617
+Aug 12, 2017	May 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00527254	$0.00527254
+Aug 11, 2017	May 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00253617	$0.00253617
+Aug 11, 2017	May 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00527254	$0.00527254
+Jul 20, 2017	Apr 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00546364	$0.00546364
+Jun 17, 2017	Mar 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00229502	$0.00229502
+Jun 17, 2017	Mar 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00561561	$0.00561561
+Jun 15, 2017	Mar 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00561561	$0.00561561
+Jun 15, 2017	Mar 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00229502	$0.00459004
+Jun 15, 2017	Mar 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00229502	$0.00229502
+Jun 15, 2017	Mar 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00561561	$0.00561561
+Jun 14, 2017	Mar 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00561561	$0.00561561
+May 20, 2017	Feb 2017	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00617799	$0.01235598
+May 20, 2017	Feb 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00617799	$0.00617799
+May 20, 2017	Feb 2017	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00617799	$0.00617799
+May 11, 2017	Dec 2015	Yandex	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00008991	$0.00008991
+May 11, 2017	Dec 2015	Yandex	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00008991	$0.00008991
+Apr 13, 2017	Jan 2017	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00650741	$0.01301482
+Apr 12, 2017	Jan 2017	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00650741	$0.00650741
+Apr 12, 2017	Jan 2017	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00268359	$0.00268359
+Apr 11, 2017	Jan 2017	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00650741	$0.00650741
+Mar 09, 2017	Jan 2017	iTunes - Apple Music - Russia	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00047487	$0.00047487
+Mar 01, 2017	Jan 2017	Apple iTunes	Dysphotic	Chaos Terrain	All Consuming	No	download	1.0	$0.63700000	$0.63700000
+Mar 01, 2017	Jan 2017	Apple iTunes	Dysphotic	Chaos Terrain	The Culling of Man	No	download	1.0	$0.63700000	$0.63700000
+Mar 01, 2017	Jan 2017	Apple iTunes	Dysphotic	Chaos Terrain	Mother of Pus	No	download	1.0	$0.63700000	$0.63700000
+Mar 01, 2017	Jan 2017	Apple iTunes	Dysphotic	Chaos Terrain	The Reaver	No	download	1.0	$0.63700000	$0.63700000
+Mar 01, 2017	Jan 2017	Apple iTunes	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	download	1.0	$0.63700000	$0.63700000
+Mar 01, 2017	Jan 2017	Apple iTunes	Dysphotic	Chaos Terrain	Persephone	No	download	1.0	$0.63700000	$0.63700000
+Feb 16, 2017	Dec 2016	YouTube Music	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00180180	$0.00360360
+Feb 09, 2017	Nov 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00408863	$0.00817726
+Feb 09, 2017	Nov 2016	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00408863	$0.00408863
+Feb 09, 2017	Nov 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00690053	$0.00690053
+Feb 09, 2017	Nov 2016	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00690053	$0.00690053
+Feb 09, 2017	Nov 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00117481	$0.00117481
+Feb 09, 2017	Nov 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00690053	$0.00690053
+Jan 09, 2017	Oct 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00667667	$0.00667667
+Jan 05, 2017	Oct 2016	YouTube Music	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00066303	$0.00066303
+Jan 05, 2017	Oct 2016	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00108736	$0.00108736
+Jan 05, 2017	Oct 2016	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	3.0	$0.00113783	$0.00341350
+Nov 11, 2016	Aug 2016	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00666886	$0.00666886
+Nov 10, 2016	Aug 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00666886	$0.00666886
+Nov 10, 2016	Aug 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00666886	$0.00666886
+Nov 10, 2016	Aug 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00736159	$0.00736159
+Nov 02, 2016	Sep 2016	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	4.0	$0.00154077	$0.00616307
+Oct 07, 2016	Jul 2016	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	3.0	$0.00684438	$0.02053315
+Oct 06, 2016	Jul 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	3.0	$0.00684438	$0.02053315
+Oct 06, 2016	Jul 2016	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	3.0	$0.00684438	$0.02053315
+Oct 05, 2016	Jul 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00684438	$0.00684438
+Sep 09, 2016	Jun 2016	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00086407	$0.00086407
+Sep 09, 2016	Jun 2016	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00086407	$0.00086407
+Sep 08, 2016	Jun 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00696298	$0.00696298
+Sep 08, 2016	Jun 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00696298	$0.00696298
+Aug 30, 2016	May 2016	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00064756	$0.00129511
+Aug 30, 2016	May 2016	YouTube Music	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00064756	$0.00129511
+Aug 26, 2016	Jul 2016	iTunes - Apple Music - Russia	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00252780	$0.00505559
+Aug 09, 2016	May 2016	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00612066	$0.00612066
+Aug 08, 2016	May 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00612066	$0.00612066
+Aug 03, 2016	Apr 2016	YouTube Music	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00404440	$0.00808881
+Aug 03, 2016	Mar 2016	YouTube Music	Dysphotic	Chaos Terrain	All Consuming	No	stream	6.0	$0.00038664	$0.00231986
+Aug 03, 2016	Mar 2016	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	4.0	$0.00070022	$0.00280089
+Aug 03, 2016	Mar 2016	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	6.0	$0.00035947	$0.00215679
+Aug 03, 2016	Mar 2016	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	10.0	$0.00024297	$0.00242970
+Jul 09, 2016	Apr 2016	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00062153	$0.00062153
+Jul 08, 2016	Apr 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00593138	$0.00593138
+Jul 08, 2016	Apr 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00028119	$0.00028119
+Jun 21, 2016	May 2016	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00755300	$0.00755300
+Jun 03, 2016	Apr 2016	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00961870	$0.00961870
+May 26, 2016	Mar 2016	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	7.0	$0.00611429	$0.04280003
+May 26, 2016	Mar 2016	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	3.0	$0.00611429	$0.01834287
+May 25, 2016	Mar 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	6.0	$0.00611429	$0.03668574
+May 25, 2016	Mar 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	9.0	$0.00611429	$0.05502861
+May 25, 2016	Mar 2016	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	6.0	$0.00611429	$0.03668574
+May 25, 2016	Mar 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	3.0	$0.00611429	$0.01834287
+May 18, 2016	Nov 2015	YouTube Music	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00027664	$0.00027664
+May 18, 2016	Nov 2015	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	4.0	$0.00004368	$0.00017472
+May 16, 2016	Feb 2016	Google Music Store	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00487578	$0.00487578
+May 16, 2016	Feb 2016	Google Music Store	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00487578	$0.00487578
+May 16, 2016	Feb 2016	Google Music Store	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00487578	$0.00487578
+May 16, 2016	Feb 2016	Google Music Store	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00487578	$0.00487578
+May 16, 2016	Feb 2016	Google Music Store	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00487578	$0.00487578
+May 16, 2016	Feb 2016	Google Music Store	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00487578	$0.00487578
+May 12, 2016	Feb 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00009646	$0.00009646
+May 12, 2016	Feb 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00127127	$0.00127127
+May 12, 2016	Feb 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00634725	$0.00634725
+May 12, 2016	Feb 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00009646	$0.00009646
+May 11, 2016	Feb 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00009646	$0.00009646
+Apr 06, 2016	Jan 2016	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	3.0	$0.00678496	$0.02035488
+Apr 06, 2016	Jan 2016	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	3.0	$0.00678496	$0.02035488
+Apr 05, 2016	Jan 2016	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	4.0	$0.00678496	$0.02713984
+Apr 05, 2016	Jan 2016	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00678496	$0.01356992
+Apr 05, 2016	Jan 2016	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00678496	$0.00678496
+Apr 05, 2016	Jan 2016	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00678496	$0.00678496
+Mar 15, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00034944	$0.00069888
+Mar 15, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	8.0	$0.00683319	$0.05466552
+Mar 15, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	4.0	$0.00683319	$0.02733276
+Mar 15, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00034944	$0.00034944
+Mar 15, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	5.0	$0.00683319	$0.03416595
+Mar 14, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00034944	$0.00034944
+Mar 14, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	9.0	$0.00683319	$0.06149871
+Mar 14, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	6.0	$0.00683319	$0.04099914
+Mar 14, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00034944	$0.00034944
+Mar 14, 2016	Dec 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	4.0	$0.00683319	$0.02733276
+Feb 16, 2016	Dec 2015	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	3.0	$0.02083172	$0.06249516
+Feb 16, 2016	Dec 2015	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	2.0	$0.01574846	$0.03149692
+Feb 16, 2016	Dec 2015	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00451391	$0.00451391
+Feb 16, 2016	Dec 2015	YouTube Music	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	3.0	$0.03300449	$0.09901346
+Feb 16, 2016	Dec 2015	YouTube Music	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00121804	$0.00243607
+Feb 13, 2016	Sep 2015	YouTube Music	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	3.0	$0.00216823	$0.00650468
+Feb 13, 2016	Sep 2015	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	11.0	$0.00064560	$0.00710164
+Feb 13, 2016	Sep 2015	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	6.0	$0.00025480	$0.00152880
+Feb 13, 2016	Sep 2015	YouTube Music	Dysphotic	Chaos Terrain	Persephone	No	stream	23.0	$0.00024974	$0.00574392
+Feb 13, 2016	Aug 2015	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00692990	$0.00692990
+Feb 12, 2016	Aug 2015	YouTube Music	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00222040	$0.00444080
+Feb 12, 2016	Aug 2015	YouTube Music	Dysphotic	Chaos Terrain	The Reaver	No	stream	5.0	$0.00119902	$0.00599508
+Feb 08, 2016	Sep 2015	Deezer	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00000000	$0.00000000
+Feb 04, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00018200	$0.00018200
+Feb 04, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00081900	$0.00163800
+Feb 04, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00154700	$0.00154700
+Feb 04, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00655200	$0.00655200
+Feb 04, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	2.0	$0.00081900	$0.00163800
+Feb 04, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00655200	$0.00655200
+Feb 04, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00081900	$0.00163800
+Feb 03, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00081900	$0.00163800
+Feb 03, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	3.0	$0.00655200	$0.01965600
+Feb 03, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00145600	$0.00145600
+Feb 03, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00081900	$0.00163800
+Feb 03, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00655200	$0.01310400
+Feb 03, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00081900	$0.00163800
+Feb 03, 2016	Nov 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	3.0	$0.00655200	$0.01965600
+Jan 27, 2016	Dec 2015	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00089362	$0.00089362
+Jan 26, 2016	Dec 2015	iTunes Match - UK	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00099975	$0.00199951
+Jan 26, 2016	Dec 2015	iTunes Match - UK	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00099975	$0.00199951
+Jan 26, 2016	Dec 2015	iTunes Match - UK	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00099975	$0.00199951
+Jan 26, 2016	Dec 2015	iTunes Match - UK	Dysphotic	Chaos Terrain	The Reaver	No	stream	2.0	$0.00099975	$0.00199951
+Jan 26, 2016	Dec 2015	iTunes Match - UK	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00099975	$0.00199951
+Jan 26, 2016	Dec 2015	iTunes Match - UK	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00099975	$0.00199951
+Jan 16, 2016	Oct 2015	Google Music Store	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00748384	$0.00748384
+Jan 16, 2016	Oct 2015	Google Music Store	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00748384	$0.00748384
+Jan 16, 2016	Oct 2015	Google Music Store	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00748384	$0.00748384
+Jan 16, 2016	Oct 2015	Google Music Store	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00748384	$0.00748384
+Jan 16, 2016	Oct 2015	Google Music Store	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00748384	$0.00748384
+Jan 16, 2016	Oct 2015	Google Music Store	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00748384	$0.00748384
+Jan 01, 2016	Nov 2015	iTunes-UK	Dysphotic	Chaos Terrain	All Consuming	No	download	1.0	$0.77205027	$0.77205027
+Jan 01, 2016	Nov 2015	iTunes-UK	Dysphotic	Chaos Terrain	The Culling of Man	No	download	1.0	$0.77205027	$0.77205027
+Jan 01, 2016	Nov 2015	iTunes-UK	Dysphotic	Chaos Terrain	Mother of Pus	No	download	1.0	$0.77205027	$0.77205027
+Jan 01, 2016	Nov 2015	iTunes-UK	Dysphotic	Chaos Terrain	The Reaver	No	download	1.0	$0.77205027	$0.77205027
+Jan 01, 2016	Nov 2015	iTunes-UK	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	download	1.0	$0.77205027	$0.77205027
+Jan 01, 2016	Nov 2015	iTunes-UK	Dysphotic	Chaos Terrain	Persephone	No	download	1.0	$0.77205027	$0.77205027
+Dec 31, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00655200	$0.00655200
+Dec 31, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	4.0	$0.00618800	$0.02475200
+Dec 31, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00655200	$0.00655200
+Dec 31, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	5.0	$0.00620620	$0.03103100
+Dec 31, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00655200	$0.00655200
+Dec 31, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	4.0	$0.00618800	$0.02475200
+Dec 30, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00100100	$0.00100100
+Dec 30, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00655200	$0.00655200
+Dec 30, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	3.0	$0.00618800	$0.01856400
+Dec 30, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00655200	$0.00655200
+Dec 30, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	8.0	$0.00619892	$0.04959136
+Dec 30, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00655200	$0.00655200
+Dec 30, 2015	Oct 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00618800	$0.01237600
+Dec 22, 2015	Nov 2015	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00204932	$0.00204932
+Dec 22, 2015	Nov 2015	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00087906	$0.00087906
+Dec 22, 2015	Nov 2015	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00204932	$0.00204932
+Dec 21, 2015	Oct 2015	YouTube Music	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	4.0	$0.00081354	$0.00325416
+Dec 21, 2015	Oct 2015	YouTube Music	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	9.0	$0.00083316	$0.00749840
+Dec 15, 2015	Oct 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	All Consuming	No	stream	5.0	$0.00296194	$0.01480969
+Dec 15, 2015	Oct 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	5.0	$0.00296194	$0.01480969
+Dec 15, 2015	Oct 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	5.0	$0.00296194	$0.01480969
+Dec 15, 2015	Oct 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	The Reaver	No	stream	5.0	$0.00296194	$0.01480969
+Dec 15, 2015	Oct 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	5.0	$0.00296194	$0.01480969
+Dec 15, 2015	Oct 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	Persephone	No	stream	5.0	$0.00296194	$0.01480969
+Dec 14, 2015	Aug 2015	Google Music Store	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00731458	$0.00731458
+Dec 14, 2015	Aug 2015	Google Music Store	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00731458	$0.00731458
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00336700	$0.00336700
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00709800	$0.00709800
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	2.0	$0.00300300	$0.00600600
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	11.0	$0.00639457	$0.07034027
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00154700	$0.00154700
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00709800	$0.00709800
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00728000	$0.00728000
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	2.0	$0.00300300	$0.00600600
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	11.0	$0.00639457	$0.07034027
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00300300	$0.00300300
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	1.0	$0.00709800	$0.00709800
+Dec 06, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	6.0	$0.00638547	$0.03831282
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00027300	$0.00027300
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00709800	$0.00709800
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	2.0	$0.00300300	$0.00600600
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	3.0	$0.00157703	$0.00473109
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	15.0	$0.00639457	$0.09591855
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00154700	$0.00154700
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.00709800	$0.00709800
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	2.0	$0.00300300	$0.00600600
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	10.0	$0.00638820	$0.06388200
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00709800	$0.00709800
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	2.0	$0.00300300	$0.00600600
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	3.0	$0.00157703	$0.00473109
+Dec 05, 2015	Sep 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	6.0	$0.00638547	$0.03831282
+Nov 24, 2015	Oct 2015	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	All Consuming	No	stream	3.0	$0.00182000	$0.00546000
+Nov 24, 2015	Oct 2015	iTunes - Apple Music – US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00182000	$0.00182000
+Nov 16, 2015	Sep 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	All Consuming	No	stream	5.0	$0.00270101	$0.01350507
+Nov 16, 2015	Sep 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	5.0	$0.00270101	$0.01350507
+Nov 16, 2015	Sep 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	5.0	$0.00270101	$0.01350507
+Nov 16, 2015	Sep 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	The Reaver	No	stream	5.0	$0.00270101	$0.01350507
+Nov 16, 2015	Sep 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	5.0	$0.00270101	$0.01350507
+Nov 16, 2015	Sep 2015	Amazon Cloud Drive - US	Dysphotic	Chaos Terrain	Persephone	No	stream	5.0	$0.00270101	$0.01350507
+Nov 14, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00163800	$0.00163800
+Nov 14, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	4.0	$0.00621075	$0.02484300
+Nov 14, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	1.0	$0.00163800	$0.00163800
+Nov 14, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	The Reaver	No	stream	4.0	$0.00621075	$0.02484300
+Nov 14, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	Corruptor of Flesh	No	stream	2.0	$0.00618800	$0.01237600
+Nov 13, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	All Consuming	No	stream	6.0	$0.00620347	$0.03722082
+Nov 13, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	1.0	$0.01101100	$0.01101100
+Nov 13, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	Mother of Pus	No	stream	4.0	$0.00621075	$0.02484300
+Nov 13, 2015	Aug 2015	Spotify	Dysphotic	Chaos Terrain	Persephone	No	stream	1.0	$0.00163800	$0.00163800
+Oct 27, 2015	Aug 2015	Groove	Dysphotic	Chaos Terrain	All Consuming	No	stream	1.0	$0.00893074	$0.00893074
+Oct 27, 2015	Aug 2015	Groove	Dysphotic	Chaos Terrain	The Culling of Man	No	stream	1.0	$0.00893074	$0.00893074
+Oct 16, 2015	Aug 2015	Amazon MP3-AT	Dysphotic	Chaos Terrain		No	download	1.0	$3.70062951	$3.70062951
+PAGE TOTAL:	728.0		$15.36103803
