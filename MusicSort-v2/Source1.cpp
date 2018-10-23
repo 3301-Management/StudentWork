@@ -122,7 +122,7 @@ int main() {
 	}
 
 	//gen. of storage arr
-	string f1[x][y];
+	global string f1[x][y];
 
 	//filling storage
 
@@ -145,21 +145,116 @@ int main() {
 
 	//operations
 
-	string* p_f1 = &f1;
-	int feild = prompt1(p_f1, x, y);
-	int relitive_s = prompt2(p_f1, x, y);
+	
+	int feild = prompt1(f1, x, y);
+	int relitive_s = prompt2(f1, x, y);
 	int count = 1;
-	if (relitive_s = -1) {
-		string p1 = f1[feild][1];
+	string buff[1000];
+	int buffp = 0;
+	
+
+	//Frequency Search
+	if (relitive_s == -1) {
+		int sbuff[1000];
 		for (int i = 0; i < y; i++) {
-			if (f1[feild][i] != p1){
-				for ()
-				count++;
-				p1 = f1[feild][i];
+			temp = f1[feild][i];
+			bool is_new = false;
+			int b = 0;
+				for (; (b <= buffp) && (temp != buff[b]); b++) {
+					is_new = (buff[b] == temp) ? false : true;
+				}
+			if (is_new) {
+				buff[b + 1] = temp;
+				sbuff[b + 1] = 1;
+				buffp++;
 			}
+			else {
+				sbuff[b]++;
+			}
+		}
+
+		cout << "\nHere is your sorted data:\n"
+			for (int i = 0; i <= buffp; i++) {
+				int t1 = 0;
+				for (int ii = 0; ii <= buffp; ii++) {
+					t1 = (sbuff[t1] <= sbuff[ii]) ? ii : t1;
+				}
+				cout << buff[t1] << ":" << sbuff[t1] << endl;
+				buff[t1] = "Found";
+				sbuff[t1] = -1;
+
+			}
+	}
+	//Relative search
+	else {
+		
+		double sbuff[1000];
+		double stemp = 0;
+		for (int i = 0; i < y; i++) {
+			temp = f1[feild][i];
+			bool is_new = false;
+			int b = 0;
+				for (; (b <= buffp) && (temp != buff[b]); b++) {
+					is_new = (buff[b] == temp) ? false : true;
+				}
+			if (is_new) {
+				buff[b + 1] = temp;
+				buffp++;
+			}
+			
+		}
+
+		for (int i = 0; i < y; i++) {
+			temp = f1[feild][i];
+			stemp = f1[relitive_s][i];
+			int b = 0;
+			for(; b <= buffp && b != buff[b]; b++){}
+			sbuff[b] += stemp;
 
 		}
+
+		cout << "\nHere is your sorted data:\n"
+		for (int i = 0; i <= buffp; i++) {
+			int t1 = 0;
+			for (int ii = 0; ii <= buffp; ii++) {
+				t1 = (sbuff[t1] <= sbuff[ii]) ? ii : t1;
+			}
+			cout << buff[t1] << ":" << sbuff[t1] << endl;
+			buff[t1] = "Found";
+			sbuff[t1] = -1.3;
+
+		}
+
+		
+
+
+
 	}
+
+
+	
+	
+	
+	
+	//if (relitive_s = -1) {
+	//	buff[0] = f1[feild][1];
+	//	for (int i = 0; i < y; i++) {
+	//		if (f1[feild][i] != buff[buffp]){
+	//			bool is_new = true;
+	//			for (int b = 0; b < buffp; b++) {
+	//				is_new = (buff[b] == buff[buffp]) ? false : true;
+	//			}
+	//			if (is_new) {
+	//				buff[buffp+1] =
+	//				buffp++;
+
+	//			}
+	//			count++;
+	//			p1 = f1[feild][i];
+	//		}
+
+	//	}
+	//}
 
 	
 
