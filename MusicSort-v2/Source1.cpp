@@ -40,7 +40,17 @@ void debug(){
 //	return;
 //}
 
-int prompt1(string* input, int x, int y) {
+//class arr {
+//public:
+//	string f1[][];
+//	arr(int x, int y) {
+//
+//
+//
+//	}
+//};
+
+ int prompt1(string** input, int x, int y) {
 	int in = 0;
 	cout << "\n\nHere are the data feilds that were parsed from the file:\n";
 		int i = 0;
@@ -59,7 +69,7 @@ int prompt1(string* input, int x, int y) {
 
 }
 
-int prompt2(string* input, int x, int y) {
+ int prompt2(string** input, int x, int y) {
 	int in = 0;
 	cout << "\n\nPlese select an operation type:\n 1 - Frequency Search. This will generate a list of each distinct element in the feild, ordered by frequency."
 		<< "\n 2 - Value Search. This will generate a list of each distinct element in the feild, ordered by the corasponding value of another feild.\n>";
@@ -122,7 +132,7 @@ int main() {
 	}
 
 	//gen. of storage arr
-	global string f1[x][y];
+	string f1[x][y];
 
 	//filling storage
 
@@ -144,10 +154,14 @@ int main() {
 	//}
 
 	//operations
-
 	
-	int feild = prompt1(f1, x, y);
-	int relitive_s = prompt2(f1, x, y);
+	string** _f1 = new string* [x];
+	for (int i = 0; i < x; i++) {
+		_f1[i] = f1[i];
+	}
+
+	int feild = prompt1(_f1, x, y);
+	int relitive_s = prompt2(_f1, x, y);
 	int count = 1;
 	string buff[1000];
 	int buffp = 0;
@@ -160,6 +174,7 @@ int main() {
 			temp = f1[feild][i];
 			bool is_new = false;
 			int b = 0;
+			//Problem Here: ALWASY TRUE
 				for (; (b <= buffp) && (temp != buff[b]); b++) {
 					is_new = (buff[b] == temp) ? false : true;
 				}
@@ -173,7 +188,7 @@ int main() {
 			}
 		}
 
-		cout << "\nHere is your sorted data:\n"
+		cout << "\nHere is your sorted data:\n";
 			for (int i = 0; i <= buffp; i++) {
 				int t1 = 0;
 				for (int ii = 0; ii <= buffp; ii++) {
@@ -206,14 +221,14 @@ int main() {
 
 		for (int i = 0; i < y; i++) {
 			temp = f1[feild][i];
-			stemp = f1[relitive_s][i];
+			stemp = stod(f1[relitive_s][i]);
 			int b = 0;
-			for(; b <= buffp && b != buff[b]; b++){}
+			for(; b <= buffp && temp  != buff[b]; b++){}
 			sbuff[b] += stemp;
 
 		}
 
-		cout << "\nHere is your sorted data:\n"
+		cout << "\nHere is your sorted data:\n";
 		for (int i = 0; i <= buffp; i++) {
 			int t1 = 0;
 			for (int ii = 0; ii <= buffp; ii++) {
