@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <stdlib.h>
 #include <bits/stdc++.h>
 #include <regex>
 
@@ -74,16 +75,17 @@ void debug(){
 	cout << "\n\nPlese select an operation type:\n 1 - Frequency Search. This will generate a list of each distinct element in the feild, ordered by frequency."
 		<< "\n 2 - Value Search. This will generate a list of each distinct element in the feild, ordered by the corasponding value of another feild.\n>";
 	cin >> in;
-	if (!(0 <= in && in <= 1)) {
+	if (!(0 <= in && in <= 2)) {
 		cout << "\n\nBad Input. Plese try agin.\n";
 		in = prompt2(input, x, y);
 	}
 	if (in == 2) {
-		cout << "Plese select a second feild to operate on (must be numerical).\n>";
+		cout << "Plese select a second feild to operate on (must be numerical).\n";
 		int i = 0;
 		for (; i < x; i++) {
 			cout << i << ":  " << input[i][0] << endl;
 		}
+		cout << "\n>";
 		cin >> in;
 		if (!(0 <= in && in <= i)) {
 			cout << "\n\nBad Input. Plese try agin.\n";
@@ -176,11 +178,11 @@ int main() {
 			int b = 0;
 			//Problem Here: ALWASY TRUE
 				for (; (b <= buffp) && (temp != buff[b]); b++) {
-					is_new = (buff[b] == temp) ? false : true;
+					is_new = (b == buffp) ? true : false;
 				}
 			if (is_new) {
-				buff[b + 1] = temp;
-				sbuff[b + 1] = 1;
+				buff[b - 1] = temp;
+				sbuff[b - 1] = 1;
 				buffp++;
 			}
 			else {
@@ -202,29 +204,30 @@ int main() {
 	}
 	//Relative search
 	else {
-		
+
 		double sbuff[1000];
 		double stemp = 0;
+		regex dclean("\\$");
 		for (int i = 0; i < y; i++) {
 			temp = f1[feild][i];
 			bool is_new = false;
 			int b = 0;
-				for (; (b <= buffp) && (temp != buff[b]); b++) {
-					is_new = (buff[b] == temp) ? false : true;
-				}
+			for (; (b <= buffp) && (temp != buff[b]); b++) {
+				is_new = (b == buffp) ? true : false;
+			}
 			if (is_new) {
-				buff[b + 1] = temp;
+				buff[b - 1] = temp;
 				buffp++;
 			}
-			
-		}
 
+		}
 		for (int i = 0; i < y; i++) {
 			temp = f1[feild][i];
-			stemp = stod(f1[relitive_s][i]);
+			string test = regex_replace(f1[relitive_s][i], dclean, "").c_str();
+			stemp = atof((regex_replace(f1[relitive_s][i], dclean, "").c_str()));
 			int b = 0;
 			for(; b <= buffp && temp  != buff[b]; b++){}
-			sbuff[b] += stemp;
+			sbuff[b - 1] += stemp;
 
 		}
 
