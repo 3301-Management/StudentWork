@@ -64,10 +64,10 @@ int main() {
 	//get input
 	string file;
 	cout << "Plese specifiy abosolute path to input file. \n>";
-	//cin >> file;
+	cin >> file;
 
 	// for debug function
-	file = "/music/dis.tsv";
+	//file = "/music/dis.tsv";
 
 
 	//declaring vars
