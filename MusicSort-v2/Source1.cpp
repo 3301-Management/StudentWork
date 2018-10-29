@@ -7,57 +7,15 @@
 
 using namespace std;
 
-void debug(){
-	return;
-}
-//
-//void O1(string* in, int x, int y) {
-//	int song_count = 0;
-//	string buff[100];
-//	string temp = in[;
-//	regex pattern("[^\\t]+");
-//
-//	for (sregex_token_iterator i(temp.begin(), temp.end(), pattern); i != end; ++i) {
-//		x++;
-//	}
-//
-//
-//	for (int i = 0; i < y; i++) {
-//		if ()
-//	}
-//
-//	return;
-//}
-//
-//void O2(string* in, int x, int y) {
-//	return;
-//}
-//
-//void O3(string* in, int x, int y) {
-//	return;
-//}
-//
-//void O4(string* in, int x, int y) {
-//	return;
-//}
+//User input functions
 
-//class arr {
-//public:
-//	string f1[][];
-//	arr(int x, int y) {
-//
-//
-//
-//	}
-//};
-
- int prompt1(string** input, int x, int y) {
+int prompt1(string** input, int x, int y) {
 	int in = 0;
 	cout << "\n\nHere are the data feilds that were parsed from the file:\n";
-		int i = 0;
-		for (; i < x; i++) {
-			cout << i << ":  " << input[i][0] << endl;
-		}
+	int i = 0;
+	for (; i < x; i++) {
+		cout << i << ":  " << input[i][0] << endl;
+	}
 	cout << "Plese select a feild to operate on.\n>";
 	cin >> in;
 	if (!(0 <= in && in <= i)) {
@@ -70,7 +28,7 @@ void debug(){
 
 }
 
- int prompt2(string** input, int x, int y) {
+int prompt2(string** input, int x, int y) {
 	int in = 0;
 	cout << "\n\nPlese select an operation type:\n 1 - Frequency Search. This will generate a list of each distinct element in the feild, ordered by frequency."
 		<< "\n 2 - Value Search. This will generate a list of each distinct element in the feild, ordered by the corasponding value of another feild.\n>";
@@ -95,9 +53,9 @@ void debug(){
 	else {
 		in = -1;
 	}
-	
+
 	return in;
-	
+
 
 }
 
@@ -107,19 +65,19 @@ int main() {
 	string file;
 	cout << "Plese specifiy abosolute path to input file. \n>";
 	//cin >> file;
-	
+
 	// for debug function
-	file = "/music/dys.txt";
+	file = "/music/dis.tsv";
 
 
 	//declaring vars
 	ifstream input(file.c_str());
-	regex pattern("[^\\t]+");
+	regex pattern("[^\\t]+|\\t\\t");
 	static const sregex_token_iterator end;
 	string temp = "";
 	int y = 0;
 	int x = 0;
-	
+
 	//defining x and y
 	while (getline(input, temp)) {
 		y++;
@@ -127,7 +85,7 @@ int main() {
 
 	ifstream input2(file.c_str());
 	getline(input2, temp);
-	
+
 
 	for (sregex_token_iterator i(temp.begin(), temp.end(), pattern); i != end; ++i) {
 		x++;
@@ -144,7 +102,6 @@ int main() {
 			f1[x_count][ii] = *i;
 			x_count++;
 		}
-		debug();
 		getline(input2, temp);
 	}
 
@@ -156,58 +113,67 @@ int main() {
 	//}
 
 	//operations
-	
-	string** _f1 = new string* [x];
+
+	// sets up a pointer and propts usr on what they want to do
+	string** _f1 = new string*[x];
 	for (int i = 0; i < x; i++) {
 		_f1[i] = f1[i];
 	}
 
 	int feild = prompt1(_f1, x, y);
 	int relitive_s = prompt2(_f1, x, y);
-	int count = 1;
 	string buff[1000];
 	int buffp = 0;
-	
+
 
 	//Frequency Search
 	if (relitive_s == -1) {
 		int sbuff[1000];
+		for (int i = 0; i < 1000; i++) {
+			sbuff[i] = 0;
+		}
 		for (int i = 0; i < y; i++) {
 			temp = f1[feild][i];
 			bool is_new = false;
 			int b = 0;
-			//Problem Here: ALWASY TRUE
-				for (; (b <= buffp) && (temp != buff[b]); b++) {
-					is_new = (b == buffp) ? true : false;
-				}
+			for (; (b <= buffp) && (temp != buff[b]); b++) {
+				is_new = (b == buffp) ? true : false;
+			}
 			if (is_new) {
 				buff[b - 1] = temp;
-				sbuff[b - 1] = 1;
+				sbuff[b - 1] = 0;
 				buffp++;
 			}
 			else {
 				sbuff[b]++;
 			}
 		}
-
-		cout << "\nHere is your sorted data:\n";
-			for (int i = 0; i <= buffp; i++) {
-				int t1 = 0;
-				for (int ii = 0; ii <= buffp; ii++) {
-					t1 = (sbuff[t1] <= sbuff[ii]) ? ii : t1;
-				}
-				cout << buff[t1] << ":" << sbuff[t1] << endl;
-				buff[t1] = "Found";
-				sbuff[t1] = -1;
-
+		//prints out results 
+		cout << "\nHere is your sorted data:\n\n";
+		for (int i = 0; i <= buffp; i++) {
+			int t1 = 0;
+			for (int ii = 0; ii <= buffp; ii++) {
+				t1 = (sbuff[t1] <= sbuff[ii]) ? ii : t1;
 			}
+			if (sbuff[t1] != 0 && buff[t1] != ""){
+				cout << buff[t1] << ":" << sbuff[t1] + 1 << endl;
+			}
+			buff[t1] = "Found";
+			sbuff[t1] = -1;
+
+		}
 	}
 	//Relative search
 	else {
-
+		//sets up vars and $ parsing 
 		double sbuff[1000];
+		for (int i = 0; i < 1000; i++) {
+			sbuff[i] = 0;
+		}
 		double stemp = 0;
 		regex dclean("\\$");
+
+		//moves through arr and generates a list of entries for "feild"
 		for (int i = 0; i < y; i++) {
 			temp = f1[feild][i];
 			bool is_new = false;
@@ -221,62 +187,37 @@ int main() {
 			}
 
 		}
+		//moves through arr and adds up data in "relitive_s" for each item in buff
 		for (int i = 0; i < y; i++) {
 			temp = f1[feild][i];
 			string test = regex_replace(f1[relitive_s][i], dclean, "").c_str();
 			stemp = atof((regex_replace(f1[relitive_s][i], dclean, "").c_str()));
 			int b = 0;
-			for(; b <= buffp && temp  != buff[b]; b++){}
-			sbuff[b - 1] += stemp;
+			for (; b <= buffp && temp != buff[b]; b++) {}
+			sbuff[b] += stemp;
 
 		}
-
-		cout << "\nHere is your sorted data:\n";
+		//prints out results 
+		cout << "\nHere is your sorted data:\n\n";
 		for (int i = 0; i <= buffp; i++) {
 			int t1 = 0;
 			for (int ii = 0; ii <= buffp; ii++) {
 				t1 = (sbuff[t1] <= sbuff[ii]) ? ii : t1;
 			}
-			cout << buff[t1] << ":" << sbuff[t1] << endl;
+			if (sbuff[t1] != 0 && buff[t1] != "") {
+				cout << buff[t1] << ":" << sbuff[t1] << endl;
+			}
 			buff[t1] = "Found";
 			sbuff[t1] = -1.3;
 
 		}
 
-		
+
 
 
 
 	}
-
-
-	
-	
-	
-	
-	//if (relitive_s = -1) {
-	//	buff[0] = f1[feild][1];
-	//	for (int i = 0; i < y; i++) {
-	//		if (f1[feild][i] != buff[buffp]){
-	//			bool is_new = true;
-	//			for (int b = 0; b < buffp; b++) {
-	//				is_new = (buff[b] == buff[buffp]) ? false : true;
-	//			}
-	//			if (is_new) {
-	//				buff[buffp+1] =
-	//				buffp++;
-
-	//			}
-	//			count++;
-	//			p1 = f1[feild][i];
-	//		}
-
-	//	}
-	//}
-
-	
-
 	cout << "\nOperations done. Exit.";
-		
+
 
 }
