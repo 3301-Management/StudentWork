@@ -155,8 +155,8 @@ int main() {
 			for (int ii = 0; ii <= buffp; ii++) {
 				t1 = (sbuff[t1] <= sbuff[ii]) ? ii : t1;
 			}
-			if (sbuff[t1] != 0 && buff[t1] != ""){
-				cout << buff[t1] << ":" << sbuff[t1] + 1 << endl;
+			if (sbuff[t1] != 0 && buff[t1] != "" && buff[t1] != "\t\t"){
+				cout << buff[t1] << " : " << sbuff[t1] + 1 << endl;
 			}
 			buff[t1] = "Found";
 			sbuff[t1] = -1;
@@ -204,8 +204,8 @@ int main() {
 			for (int ii = 0; ii <= buffp; ii++) {
 				t1 = (sbuff[t1] <= sbuff[ii]) ? ii : t1;
 			}
-			if (sbuff[t1] != 0 && buff[t1] != "") {
-				cout << buff[t1] << ":" << sbuff[t1] << endl;
+			if (sbuff[t1] != 0 && buff[t1] != "" && buff[t1] != "\t\t") {
+				cout << buff[t1] << " : " << sbuff[t1] << endl;
 			}
 			buff[t1] = "Found";
 			sbuff[t1] = -1.3;
