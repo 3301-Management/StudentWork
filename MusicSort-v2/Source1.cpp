@@ -102,7 +102,7 @@ int main() {
 			f1[x_count][ii] = *i;
 			x_count++;
 		}
-		getline(input2, temp);
+		getline(input2, temp);	
 	}
 
 	////prints out the storage block
