@@ -35,7 +35,7 @@ int main() {
 	// for debug function
 	file = "/music/dis.tsv";
 	
-	//fill head and body
+	//fill head and data
 	fstream input(file.c_str());
 	getline(input, temp);
 	for (sregex_token_iterator i(temp.begin(), temp.end(), pattern); i != end; ++i) {
@@ -48,7 +48,7 @@ int main() {
 		for (sregex_token_iterator i(temp.begin(), temp.end(), pattern); i != end; ++i) {
 			vtemp.push_back(*i);
 		}
-		body.push_back(vtemp);
+		data.push_back(vtemp);
 	}
 
 	//ask usr for operations
@@ -62,7 +62,7 @@ int main() {
 		}
 		cout << "Plese select a feild to operate on.\n>";
 		cin >> feild1;
-	} while (!(0 <= feild1 && feild1 <= i));
+	} while (!(0 <= feild1 && feild1 <= head.size()));
 	do {
 		cout << "\n\nPlese select an operation type:\n 1 - Frequency Search. This will generate a list of each distinct element in the feild, ordered by frequency."
 			<< "\n 2 - Value Search. This will generate a list of each distinct element in the feild, ordered by the corasponding value of another feild.\n>";
@@ -79,7 +79,7 @@ int main() {
 		vector<int> sbuff;
 
 		//parse and search
-		for (auto i : body) {
+		for (auto i : data) {
 			temp = i[feild1];
 			auto sbuff_change = sbuff;
 			for (int b = 0; b < buff.size(); b++) {
@@ -97,7 +97,7 @@ int main() {
 		for (int i = 0; i < buff.size(); i++) {
 			int outp = 0;
 			for (int ii = 0; ii < buff.size(); ii++) {
-				outp = (sbuff[outp] <= sbuff[ii]) ? ii : t1;
+				outp = (sbuff[outp] <= sbuff[ii]) ? ii : outp;
 			}
 			cout << buff[outp] << " : " << sbuff[outp] + 1 << endl;
 			sbuff[outp] = -1;
@@ -124,10 +124,10 @@ int main() {
 			}
 			cout << "Plese select a feild to operate on.\n>";
 			cin >> feild2;
-		} while (!(0 <= feild2 && feild2 <= i));
+		} while (!(0 <= feild2 && feild2 <= head.size()));
 
 		//parse and search
-		for (auto i : body) {
+		for (auto i : data) {
 			temp = i[feild1];
 			auto sbuff_change = sbuff;
 			for (int b = 0; b < buff.size(); b++) {
@@ -146,7 +146,7 @@ int main() {
 		for (int i = 0; i < buff.size(); i++) {
 			int outp = 0;
 			for (int ii = 0; ii < buff.size(); ii++) {
-				outp = (sbuff[outp] <= sbuff[ii]) ? ii : t1;
+				outp = (sbuff[outp] <= sbuff[ii]) ? ii : outp;
 			}
 			cout << buff[outp] << " : " << sbuff[outp] + 1 << endl;
 			sbuff[outp] = -1;
